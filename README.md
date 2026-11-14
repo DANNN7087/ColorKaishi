@@ -62,7 +62,9 @@ We categorized every card in Kaishi 1.5k using the following process:
 
 - Python script (see github) scrapes jisho.org/word/{word} for exact matches of terms, uses first result from jisho.org/search/{word} otherwise:
 
-  - This gives the term's "meaning tags"  
+  - This gives the term's "meaning tags"
+ 
+  - You probably want to use jmdict or jitendex for this
 
 - "Meaning tags" were processed using a basic algorithm to find the most common use of a term ([spreadsheet](https://docs.google.com/spreadsheets/d/1BZiNtmv8dbPIVCvC65-xJMYgPLLm6aqMlonox1L64jI/view))
 
