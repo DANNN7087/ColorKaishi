@@ -3,8 +3,9 @@ Anki addon to color-code Kaishi 1.5k v2 deck
 
 https://ankiweb.net/shared/info/1768036950
 
-An addon to color-code kaishi 1.5k, 
-so you can automatically differentiate word categories without any guessing or searches.
+An addon to color-code kaishi 1.5k, so you can automatically differentiate word categories without any guessing or searches.
+
+Differentiate ambiguous words without thinking, like godan vs ichidan verbs, or transitive vs intransitive verbs.
 
 Cards work on mobile, too, because the plugin just writes a color-code into the card, which is read in the card's html and css to render the color.
 
